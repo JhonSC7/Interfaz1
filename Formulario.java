@@ -11,7 +11,7 @@ public class Formulario {
         validarButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                String texto = textField1;
+                String texto = textField1.getText();
                 String genero = comboBox1.getSelectedItem().toString();
 
 

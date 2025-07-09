@@ -3,8 +3,6 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class ValidadorPension {
-
 
     public class ValidadorPension extends JFrame {
         private JTextField campoEdad;
@@ -86,4 +84,3 @@ public class ValidadorPension {
         }
     }
 
-}
